@@ -1,2 +1,2 @@
 - OrderProcessor.java is the main class which contain code smells;
-- RefactoredOrderProcessor.java is the refactored main class;
+- RefactorOrderProcessor.java is the refactored main class;
